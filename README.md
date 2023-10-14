@@ -1,1 +1,2 @@
 # RideHailingConsoleApp
+This repository contains my C# project which is a Ride Hailing Console App. This app helps users to book a ride after entering location details like pick up and drop locations. You can select ride category and then this app shows you available drivers. You can select a driver and confirm your ride and then ride details are displayed to user including ride fare and distance. In Admin section of this app, Admin can add or remove drivers.
